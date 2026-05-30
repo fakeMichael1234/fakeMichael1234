@@ -32,8 +32,6 @@ Current Mission:
 
 ## 🏆 Profile Badges
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-
 
 ![AI](https://img.shields.io/badge/AI-Builder-blue?style=for-the-badge)
 ![Cyber Security](https://img.shields.io/badge/Cyber-Security-red?style=for-the-badge)
